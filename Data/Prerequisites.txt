@@ -1,0 +1,79 @@
+
+Computer Skills
+0
+
+Python Programming
+0
+
+Computer Systems
+1234
+1235
+
+Intermediate Programming
+1234
+1235
+
+Data Structures
+1234
+1235
+1236
+1237
+
+Advanced Programming
+1234
+1235
+1236
+1237
+1238
+
+Compiler Design
+1234
+1235
+1236
+1237
+1238
+
+Operating Systems
+1234
+1235
+1236
+1237
+1238
+
+Physics I
+0
+
+Physics II
+2345
+
+Electric Circuits
+2345
+
+Calculus I
+0
+
+Calculus II
+2348
+
+Calculus III
+2348
+2349
+
+Differential Equations
+2348
+2349
+
+English I
+0
+
+English II
+3456
+
+Writing Skills
+3456
+3457
+
+Communication Skills
+3456
+3457
+3458

@@ -1,0 +1,1113 @@
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] A course was added successfully
+[2025-0-25 18:57:37] Courses loaded from file
+[2025-0-25 18:57:37] Inserted course with ID: 2346 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1238 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1235 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1234 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1236 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1237 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1240 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1239 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 1241 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 2345 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 2351 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 2349 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 2348 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 2347 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 2350 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 3458 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 3457 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 3456 into hash table
+[2025-0-25 18:57:37] Inserted course with ID: 3459 into hash table
+[2025-0-25 18:57:37] A student was added successfully
+[2025-0-25 18:57:37] A student was added successfully
+[2025-0-25 18:57:37] A student was added successfully
+[2025-0-25 18:57:37] A student was added successfully
+[2025-0-25 18:57:37] A student was added successfully
+[2025-0-25 18:57:37] Students loaded from file
+[2025-0-25 18:57:37] Error opening waitlist file for reading
+[2025-0-25 18:57:37] Error opening enrollment history file for reading
+[2025-0-25 18:57:37] Error opening registered students file for reading
+[2025-0-25 18:57:37] Error opening GPA data file for reading
+[2025-0-25 18:57:37] Error opening grades file for reading
+[2025-0-25 18:57:39] Enrolling in a course
+[2025-0-25 18:57:40] Found course with ID: 1234 in hash table
+[2025-0-25 18:57:40] A student was registered in a course
+[2025-0-25 18:57:40] Added course to enrollment history: Computer Skills (ID: 1234)
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was enqueued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] A value was dequeued
+[2025-0-25 18:57:40] Courses and prerequisites saved to file
+[2025-0-25 18:57:40] Students saved to file
+[2025-0-25 18:57:40] Waitlist saved to file
+[2025-0-25 18:57:40] Enrollment history saved to file
+[2025-0-25 18:57:40] Registered students saved to file
+[2025-0-25 18:57:40] GPA data saved to file
+[2025-0-25 18:57:40] Grades saved to file
+[2025-0-25 18:57:44] Enrolling in a course
+[2025-0-25 18:57:45] Found course with ID: 1235 in hash table
+[2025-0-25 18:57:45] A student was registered in a course
+[2025-0-25 18:57:45] Added course to enrollment history: Python Programming (ID: 1235)
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was enqueued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] A value was dequeued
+[2025-0-25 18:57:45] Courses and prerequisites saved to file
+[2025-0-25 18:57:45] Students saved to file
+[2025-0-25 18:57:45] Waitlist saved to file
+[2025-0-25 18:57:45] Enrollment history saved to file
+[2025-0-25 18:57:45] Registered students saved to file
+[2025-0-25 18:57:45] GPA data saved to file
+[2025-0-25 18:57:45] Grades saved to file
+[2025-0-25 18:57:49] Putting a grade
+[2025-0-25 18:57:52] GPA updated for student ID: 1
+[2025-0-25 18:57:52] GPA updated successfully for a student
+[2025-0-25 18:57:52] Updated grade for course ID: 1234 to 100
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was enqueued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] A value was dequeued
+[2025-0-25 18:57:52] Courses and prerequisites saved to file
+[2025-0-25 18:57:52] Students saved to file
+[2025-0-25 18:57:52] Waitlist saved to file
+[2025-0-25 18:57:52] Enrollment history saved to file
+[2025-0-25 18:57:52] Registered students saved to file
+[2025-0-25 18:57:52] GPA data saved to file
+[2025-0-25 18:57:52] Grades saved to file
+[2025-0-25 18:57:55] Putting a grade
+[2025-0-25 18:57:58] GPA updated for student ID: 1
+[2025-0-25 18:57:58] GPA updated successfully for a student
+[2025-0-25 18:57:58] Updated grade for course ID: 1235 to 100
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was enqueued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] A value was dequeued
+[2025-0-25 18:57:58] Courses and prerequisites saved to file
+[2025-0-25 18:57:58] Students saved to file
+[2025-0-25 18:57:58] Waitlist saved to file
+[2025-0-25 18:57:58] Enrollment history saved to file
+[2025-0-25 18:57:58] Registered students saved to file
+[2025-0-25 18:57:58] GPA data saved to file
+[2025-0-25 18:57:58] Grades saved to file
+[2025-0-25 18:58:1] Enrolling in a course
+[2025-0-25 18:58:2] Found course with ID: 1236 in hash table
+[2025-0-25 18:58:3] Pushed value onto stack: 1234
+[2025-0-25 18:58:3] Pushed value onto stack: 1235
+[2025-0-25 18:58:3] Popped value from stack: 1235
+[2025-0-25 18:58:3] Popped value from stack: 1234
+[2025-0-25 18:58:3] A student was registered in a course
+[2025-0-25 18:58:3] Added course to enrollment history: Computer Systems (ID: 1236)
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was enqueued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] A value was dequeued
+[2025-0-25 18:58:3] Courses and prerequisites saved to file
+[2025-0-25 18:58:3] Students saved to file
+[2025-0-25 18:58:3] Waitlist saved to file
+[2025-0-25 18:58:3] Enrollment history saved to file
+[2025-0-25 18:58:3] Registered students saved to file
+[2025-0-25 18:58:3] GPA data saved to file
+[2025-0-25 18:58:3] Grades saved to file
+[2025-0-25 18:58:5] Putting a grade
+[2025-0-25 18:58:9] GPA updated for student ID: 1
+[2025-0-25 18:58:9] GPA updated successfully for a student
+[2025-0-25 18:58:9] Updated grade for course ID: 1236 to 100
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was enqueued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] A value was dequeued
+[2025-0-25 18:58:9] Courses and prerequisites saved to file
+[2025-0-25 18:58:9] Students saved to file
+[2025-0-25 18:58:9] Waitlist saved to file
+[2025-0-25 18:58:9] Enrollment history saved to file
+[2025-0-25 18:58:9] Registered students saved to file
+[2025-0-25 18:58:9] GPA data saved to file
+[2025-0-25 18:58:9] Grades saved to file
+[2025-0-25 18:58:13] Enrolling in a course
+[2025-0-25 18:58:14] Found course with ID: 1237 in hash table
+[2025-0-25 18:58:15] Pushed value onto stack: 1234
+[2025-0-25 18:58:15] Pushed value onto stack: 1235
+[2025-0-25 18:58:15] Popped value from stack: 1235
+[2025-0-25 18:58:15] Popped value from stack: 1234
+[2025-0-25 18:58:15] A student was registered in a course
+[2025-0-25 18:58:15] Added course to enrollment history: Intermediate Programming (ID: 1237)
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was enqueued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] A value was dequeued
+[2025-0-25 18:58:15] Courses and prerequisites saved to file
+[2025-0-25 18:58:15] Students saved to file
+[2025-0-25 18:58:15] Waitlist saved to file
+[2025-0-25 18:58:15] Enrollment history saved to file
+[2025-0-25 18:58:15] Registered students saved to file
+[2025-0-25 18:58:15] GPA data saved to file
+[2025-0-25 18:58:15] Grades saved to file
+[2025-0-25 18:58:17] Putting a grade
+[2025-0-25 18:58:21] GPA updated for student ID: 1
+[2025-0-25 18:58:21] GPA updated successfully for a student
+[2025-0-25 18:58:21] Updated grade for course ID: 1237 to 100
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was enqueued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] A value was dequeued
+[2025-0-25 18:58:21] Courses and prerequisites saved to file
+[2025-0-25 18:58:21] Students saved to file
+[2025-0-25 18:58:21] Waitlist saved to file
+[2025-0-25 18:58:21] Enrollment history saved to file
+[2025-0-25 18:58:21] Registered students saved to file
+[2025-0-25 18:58:21] GPA data saved to file
+[2025-0-25 18:58:21] Grades saved to file
+[2025-0-25 18:58:23] Enrolling in a course
+[2025-0-25 18:58:25] Found course with ID: 1238 in hash table
+[2025-0-25 18:58:25] Pushed value onto stack: 1234
+[2025-0-25 18:58:25] Pushed value onto stack: 1235
+[2025-0-25 18:58:25] Pushed value onto stack: 1236
+[2025-0-25 18:58:25] Pushed value onto stack: 1237
+[2025-0-25 18:58:25] Popped value from stack: 1237
+[2025-0-25 18:58:25] Popped value from stack: 1236
+[2025-0-25 18:58:25] Popped value from stack: 1235
+[2025-0-25 18:58:25] Popped value from stack: 1234
+[2025-0-25 18:58:25] A student was registered in a course
+[2025-0-25 18:58:25] Added course to enrollment history: Data Structures (ID: 1238)
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was enqueued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] A value was dequeued
+[2025-0-25 18:58:25] Courses and prerequisites saved to file
+[2025-0-25 18:58:25] Students saved to file
+[2025-0-25 18:58:25] Waitlist saved to file
+[2025-0-25 18:58:25] Enrollment history saved to file
+[2025-0-25 18:58:25] Registered students saved to file
+[2025-0-25 18:58:25] GPA data saved to file
+[2025-0-25 18:58:25] Grades saved to file
+[2025-0-25 18:58:28] Putting a grade
+[2025-0-25 18:58:32] GPA updated for student ID: 1
+[2025-0-25 18:58:32] GPA updated successfully for a student
+[2025-0-25 18:58:32] Updated grade for course ID: 1238 to 100
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was enqueued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] A value was dequeued
+[2025-0-25 18:58:32] Courses and prerequisites saved to file
+[2025-0-25 18:58:32] Students saved to file
+[2025-0-25 18:58:32] Waitlist saved to file
+[2025-0-25 18:58:32] Enrollment history saved to file
+[2025-0-25 18:58:32] Registered students saved to file
+[2025-0-25 18:58:32] GPA data saved to file
+[2025-0-25 18:58:32] Grades saved to file
+[2025-0-25 18:58:36] Enrolling in a course
+[2025-0-25 18:58:37] Found course with ID: 1234 in hash table
+[2025-0-25 18:58:39] A student was registered in a course
+[2025-0-25 18:58:39] Added course to enrollment history: Computer Skills (ID: 1234)
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was enqueued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] A value was dequeued
+[2025-0-25 18:58:39] Courses and prerequisites saved to file
+[2025-0-25 18:58:39] Students saved to file
+[2025-0-25 18:58:39] Waitlist saved to file
+[2025-0-25 18:58:39] Enrollment history saved to file
+[2025-0-25 18:58:39] Registered students saved to file
+[2025-0-25 18:58:39] GPA data saved to file
+[2025-0-25 18:58:39] Grades saved to file
+[2025-0-25 18:58:42] Enrolling in a course
+[2025-0-25 18:58:56] Found course with ID: 2346 in hash table
+[2025-0-25 18:58:59] Pushed value onto stack: 2345
+[2025-0-25 18:58:59] Popped value from stack: 2345
+[2025-0-25 18:58:59] Trying to register a student in a not eligible course
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was enqueued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] A value was dequeued
+[2025-0-25 18:58:59] Courses and prerequisites saved to file
+[2025-0-25 18:58:59] Students saved to file
+[2025-0-25 18:58:59] Waitlist saved to file
+[2025-0-25 18:58:59] Enrollment history saved to file
+[2025-0-25 18:58:59] Registered students saved to file
+[2025-0-25 18:58:59] GPA data saved to file
+[2025-0-25 18:58:59] Grades saved to file
+[2025-0-25 18:59:2] Enrolling in a course
+[2025-0-25 18:59:4] Found course with ID: 2345 in hash table
+[2025-0-25 18:59:7] A student was registered in a course
+[2025-0-25 18:59:7] Added course to enrollment history: Physics I (ID: 2345)
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was enqueued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] A value was dequeued
+[2025-0-25 18:59:7] Courses and prerequisites saved to file
+[2025-0-25 18:59:7] Students saved to file
+[2025-0-25 18:59:7] Waitlist saved to file
+[2025-0-25 18:59:7] Enrollment history saved to file
+[2025-0-25 18:59:7] Registered students saved to file
+[2025-0-25 18:59:7] GPA data saved to file
+[2025-0-25 18:59:7] Grades saved to file
+[2025-0-25 18:59:11] Putting a grade
+[2025-0-25 18:59:16] Trying to put grade for a non-existing course
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was enqueued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] A value was dequeued
+[2025-0-25 18:59:16] Courses and prerequisites saved to file
+[2025-0-25 18:59:16] Students saved to file
+[2025-0-25 18:59:16] Waitlist saved to file
+[2025-0-25 18:59:16] Enrollment history saved to file
+[2025-0-25 18:59:16] Registered students saved to file
+[2025-0-25 18:59:16] GPA data saved to file
+[2025-0-25 18:59:16] Grades saved to file
+[2025-0-25 18:59:20] Putting a grade
+[2025-0-25 18:59:24] GPA updated for student ID: 231000661
+[2025-0-25 18:59:24] GPA updated successfully for a student
+[2025-0-25 18:59:24] Updated grade for course ID: 2345 to 70
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was enqueued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] A value was dequeued
+[2025-0-25 18:59:24] Courses and prerequisites saved to file
+[2025-0-25 18:59:24] Students saved to file
+[2025-0-25 18:59:24] Waitlist saved to file
+[2025-0-25 18:59:24] Enrollment history saved to file
+[2025-0-25 18:59:24] Registered students saved to file
+[2025-0-25 18:59:24] GPA data saved to file
+[2025-0-25 18:59:24] Grades saved to file
+[2025-0-25 18:59:26] Displaying all students
+[2025-0-25 18:59:26] Displayed all students.
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was enqueued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] A value was dequeued
+[2025-0-25 18:59:26] Courses and prerequisites saved to file
+[2025-0-25 18:59:26] Students saved to file
+[2025-0-25 18:59:26] Waitlist saved to file
+[2025-0-25 18:59:26] Enrollment history saved to file
+[2025-0-25 18:59:26] Registered students saved to file
+[2025-0-25 18:59:26] GPA data saved to file
+[2025-0-25 18:59:26] Grades saved to file
+[2025-0-25 18:59:36] Program has terminated
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was enqueued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] A value was dequeued
+[2025-0-25 18:59:36] Courses and prerequisites saved to file
+[2025-0-25 18:59:36] Students saved to file
+[2025-0-25 18:59:36] Waitlist saved to file
+[2025-0-25 18:59:36] Enrollment history saved to file
+[2025-0-25 18:59:36] Registered students saved to file
+[2025-0-25 18:59:36] GPA data saved to file
+[2025-0-25 18:59:36] Grades saved to file
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] A course was added successfully
+[2025-0-25 19:29:59] Courses loaded from file
+[2025-0-25 19:29:59] Inserted course with ID: 2346 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1238 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1235 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1234 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1236 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1237 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1240 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1239 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 1241 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 2345 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 2351 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 2349 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 2348 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 2347 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 2350 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 3458 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 3457 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 3456 into hash table
+[2025-0-25 19:29:59] Inserted course with ID: 3459 into hash table
+[2025-0-25 19:29:59] A student was added successfully
+[2025-0-25 19:29:59] A student was added successfully
+[2025-0-25 19:29:59] A student was added successfully
+[2025-0-25 19:29:59] A student was added successfully
+[2025-0-25 19:29:59] A student was added successfully
+[2025-0-25 19:29:59] Students loaded from file
+[2025-0-25 19:29:59] Waitlist loaded from file
+[2025-0-25 19:29:59] Added course to enrollment history: Computer Skills (ID: 1234)
+[2025-0-25 19:29:59] Added course to enrollment history: Python Programming (ID: 1235)
+[2025-0-25 19:29:59] Added course to enrollment history: Computer Systems (ID: 1236)
+[2025-0-25 19:29:59] Added course to enrollment history: Intermediate Programming (ID: 1237)
+[2025-0-25 19:29:59] Added course to enrollment history: Data Structures (ID: 1238)
+[2025-0-25 19:29:59] Added course to enrollment history: Computer Skills (ID: 1234)
+[2025-0-25 19:29:59] Added course to enrollment history: Physics I (ID: 2345)
+[2025-0-25 19:29:59] Enrollment history loaded from file
+[2025-0-25 19:29:59] Registered students loaded from file
+[2025-0-25 19:29:59] GPA data loaded from file
+[2025-0-25 19:29:59] Updated grade for course ID: 1234 to 100
+[2025-0-25 19:29:59] Updated grade for course ID: 1235 to 100
+[2025-0-25 19:29:59] Updated grade for course ID: 1236 to 100
+[2025-0-25 19:29:59] Updated grade for course ID: 1237 to 100
+[2025-0-25 19:29:59] Updated grade for course ID: 1238 to 100
+[2025-0-25 19:29:59] Updated grade for course ID: 1234 to -1
+[2025-0-25 19:29:59] Updated grade for course ID: 2345 to 70
+[2025-0-25 19:29:59] Grades loaded from file
+[2025-0-25 19:30:45] Program has terminated
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was enqueued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] A value was dequeued
+[2025-0-25 19:30:45] Courses and prerequisites saved to file
+[2025-0-25 19:30:45] Students saved to file
+[2025-0-25 19:30:45] Waitlist saved to file
+[2025-0-25 19:30:45] Enrollment history saved to file
+[2025-0-25 19:30:45] Registered students saved to file
+[2025-0-25 19:30:45] GPA data saved to file
+[2025-0-25 19:30:45] Grades saved to file
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] A course was added successfully
+[2025-0-25 20:7:18] Courses loaded from file
+[2025-0-25 20:7:18] Inserted course with ID: 2346 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1238 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1235 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1234 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1236 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1237 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1240 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1239 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 1241 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 2345 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 2351 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 2349 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 2348 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 2347 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 2350 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 3458 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 3457 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 3456 into hash table
+[2025-0-25 20:7:18] Inserted course with ID: 3459 into hash table
+[2025-0-25 20:7:18] A student was added successfully
+[2025-0-25 20:7:18] A student was added successfully
+[2025-0-25 20:7:18] A student was added successfully
+[2025-0-25 20:7:18] A student was added successfully
+[2025-0-25 20:7:18] A student was added successfully
+[2025-0-25 20:7:18] Students loaded from file
+[2025-0-25 20:7:18] Waitlist loaded from file
+[2025-0-25 20:7:18] Added course to enrollment history: Computer Skills (ID: 1234)
+[2025-0-25 20:7:18] Added course to enrollment history: Python Programming (ID: 1235)
+[2025-0-25 20:7:18] Added course to enrollment history: Computer Systems (ID: 1236)
+[2025-0-25 20:7:18] Added course to enrollment history: Intermediate Programming (ID: 1237)
+[2025-0-25 20:7:18] Added course to enrollment history: Data Structures (ID: 1238)
+[2025-0-25 20:7:18] Added course to enrollment history: Computer Skills (ID: 1234)
+[2025-0-25 20:7:18] Added course to enrollment history: Physics I (ID: 2345)
+[2025-0-25 20:7:18] Enrollment history loaded from file
+[2025-0-25 20:7:18] Registered students loaded from file
+[2025-0-25 20:7:18] GPA data loaded from file
+[2025-0-25 20:7:18] Updated grade for course ID: 1234 to 100
+[2025-0-25 20:7:18] Updated grade for course ID: 1235 to 100
+[2025-0-25 20:7:18] Updated grade for course ID: 1236 to 100
+[2025-0-25 20:7:18] Updated grade for course ID: 1237 to 100
+[2025-0-25 20:7:18] Updated grade for course ID: 1238 to 100
+[2025-0-25 20:7:18] Updated grade for course ID: 1234 to -1
+[2025-0-25 20:7:18] Updated grade for course ID: 2345 to 70
+[2025-0-25 20:7:18] Grades loaded from file
+[2025-0-25 20:7:19] Program has terminated
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was enqueued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] A value was dequeued
+[2025-0-25 20:7:19] Courses and prerequisites saved to file
+[2025-0-25 20:7:19] Students saved to file
+[2025-0-25 20:7:19] Waitlist saved to file
+[2025-0-25 20:7:19] Enrollment history saved to file
+[2025-0-25 20:7:19] Registered students saved to file
+[2025-0-25 20:7:19] GPA data saved to file
+[2025-0-25 20:7:19] Grades saved to file

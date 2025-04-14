@@ -1,0 +1,114 @@
+
+Physics II
+2346
+3
+Atya Ali
+3
+
+Data Structures
+1238
+4
+Mohamed Hussain
+2
+
+Differential Equations
+2351
+4
+Abdullah Abdulrahim
+3
+
+Python Programming
+1235
+3
+Ahmed Ibrahim
+2
+
+Compiler Design
+1240
+3
+Ahmed Shaban
+3
+
+Calculus II
+2349
+3
+Soliman Abdelrahman
+3
+
+Writing Skills
+3458
+3
+Abdulatheem Abdulghafour
+3
+
+Computer Skills
+1234
+2
+Mohamed Ahmed
+1
+
+Computer Systems
+1236
+3
+Ibrahim Salama
+2
+
+Advanced Programming
+1239
+4
+Hussain Ahmed
+3
+
+Operating Systems
+1241
+4
+Shaban Mohamed
+3
+
+Calculus I
+2348
+2
+Saleh Soliman
+3
+
+Calculus III
+2350
+3
+Abdelrahman Abdullah
+3
+
+English II
+3457
+3
+Abdulsamea Abdulatheem
+3
+
+Communication Skills
+3459
+4
+Abdulghafour Abdulshakour
+3
+
+Intermediate Programming
+1237
+3
+Salama Mohamed
+2
+
+Physics I
+2345
+2
+Mohamed Atya
+2
+
+Electric Circuits
+2347
+3
+Ali Saleh
+3
+
+English I
+3456
+2
+AbdulrahimAbdulsamea
+3

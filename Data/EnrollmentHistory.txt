@@ -1,0 +1,31 @@
+1
+1234
+Computer Skills
+100
+1235
+Python Programming
+100
+1236
+Computer Systems
+100
+1237
+Intermediate Programming
+100
+1238
+Data Structures
+100
+
+231001388
+1234
+Computer Skills
+-1
+
+231002063
+
+231000661
+2345
+Physics I
+70
+
+231000562
+
